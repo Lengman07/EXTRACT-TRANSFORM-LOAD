@@ -1,0 +1,12 @@
+2024-08-24 05:15:10,ETL Job Started
+2024-08-24 05:15:10,Download and unzip phase Started
+2024-08-24 05:24:40,ETL Job Started
+2024-08-24 05:24:40,Download and unzip phase Started
+2024-08-24 05:25:07,Download and unzip phase Ended
+2024-08-24 05:25:07,Extract phase Started
+2024-08-24 05:25:26,Extract phase Ended
+2024-08-24 05:25:26,Transform phase Started
+2024-08-24 05:25:32,Transform phase Ended
+2024-08-24 05:25:32,Load phase Started
+2024-08-24 05:25:34,Load phase Ended
+2024-08-24 05:25:34,ETL Job Ended
